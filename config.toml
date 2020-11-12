@@ -1,0 +1,29 @@
+baseURL = "https://markgross.me"
+languageCode = "en-us"
+title = "Mark Gross"
+theme = "anubis"
+paginate = 5
+
+[author]
+  name = "Mark Gross"
+
+[params]
+  author = "Mark Gross"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+	name = "About"
+	url = "/about/"
+	weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+	name = "Posts"
+	url = "/posts/"
+	weight = 2
+# [[menu.main]]
+#   identifier = "tags"
+#  name = "Tags"
+#  url = "/tags/"
+#  weight = 3
