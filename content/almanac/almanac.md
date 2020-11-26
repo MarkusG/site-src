@@ -6,3 +6,4 @@ I come across useful information often, and bookmarks are a terribly private way
 
 * [Computer Science](/almanac/computer-science)
 * [Mathematics](/almanac/math)
+* [Writing](/almanac/writing)
