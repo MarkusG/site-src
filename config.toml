@@ -14,12 +14,8 @@ paginate = 5
   [[menu.main]]
     identifier = "posts"
 	name = "Posts"
-	url = "posts/"
+	url = "/posts/"
 	weight = 2
-  [[menu.main]]
-  	identifier = "almanac"
-	name = "Almanac"
-	url = "almanac/almanac"
 # [[menu.main]]
 #   identifier = "tags"
 #  name = "Tags"
